@@ -4,8 +4,8 @@
     "email": "bmatusiak@gmail.com"
   },
   "name": "vork",
-  "version": "0.0.4",
-  "engines": { 
+  "version": "0.0.5",
+  "engines": {
     "node": ">=0.6.18",
     "npm": ">=1.1.9"
   },
@@ -14,4 +14,3 @@
     "express": "3.0.0rc5"
   }
 }
- 
