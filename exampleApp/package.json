@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "name": "ProjectName",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.6.18",
+    "npm": ">=1.1.9"
+  },
+  "dependencies": {
+    "vork": "0.0.*"    
+  }
+}

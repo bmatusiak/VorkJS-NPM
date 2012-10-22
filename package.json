@@ -4,7 +4,7 @@
     "email": "bmatusiak@gmail.com"
   },
   "name": "vork",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": ">=0.6.18",
     "npm": ">=1.1.9"
@@ -12,16 +12,5 @@
   "dependencies": {
     "ejs": "0.8.3",
     "express": "3.0.0rc4"
-  },
-  "_id": "vork@0.0.2",
-  "devDependencies": {},
-  "optionalDependencies": {},
-  "_engineSupported": true,
-  "_npmVersion": "1.1.24",
-  "_nodeVersion": "v0.6.19",
-  "_defaultsLoaded": true,
-  "dist": {
-    "shasum": "2a5c1dc6dbbd48df83ecb9ddfe650773cbbdae70"
-  },
-  "_from": "vork@0.0.2"
+  }
 }
